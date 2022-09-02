@@ -1,4 +1,4 @@
-#Ecommerce 
+# Ecommerce 
 
-##Tecnologias
+## Tecnologias
 ### React,styled components,css,
